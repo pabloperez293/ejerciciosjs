@@ -1,3 +1,4 @@
+// Tenemos que calcular cual es el mayor entre ambas
 function cualEsMayo(a, b) {
     // Ejercicio basico if (a > b) {
     //     return a;
@@ -10,4 +11,4 @@ function cualEsMayo(a, b) {
 
 let mayor = cualEsMayo(10 , 5);
 
-console.log(mayor)
+console.log(mayor);
